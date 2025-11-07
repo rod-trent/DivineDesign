@@ -11,6 +11,8 @@ Whether you’re facing a new challenge, seeking encouragement, or simply wantin
 
 # What's Here
 
+[Bold in the Storm Resource Kit](https://github.com/rod-trent/DivineDesign/tree/main/Bold_in_the_Storm_Resource_Kit)
+
 
 
 
