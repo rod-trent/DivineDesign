@@ -9,6 +9,8 @@ https://rodtrent.substack.com/s/divine-design-embracing-gods-purpose
 
 Whether you’re facing a new challenge, seeking encouragement, or simply wanting to stay anchored in faith amid the busyness, the newsletter is here to walk with you.
 
+And, make sure to grab the [Faith in the Workplace: GPS for Busy Professionals](https://amzn.to/43fKWF1) book! 52-weeks of devotions for the busy professional designed for weekly benefit to accompany regular Bible reading and church attendance.
+
 # What's Here
 
 [Bold in the Storm Resource Kit](https://github.com/rod-trent/DivineDesign/tree/main/Bold_in_the_Storm_Resource_Kit)
