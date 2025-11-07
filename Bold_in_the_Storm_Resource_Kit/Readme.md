@@ -8,6 +8,7 @@
 
 ## 🌊 About the Book
 **Bold in the Storm** is a call to courage and conviction for believers navigating today’s divided world.  
+
 Through ten powerful chapters, Rod Trent guides readers to recognize spiritual division, overcome fear, speak truth with grace, love enemies, and build lasting faith that stands firm amid chaos.
 
 More than a devotional, *Bold in the Storm* is a practical discipleship journey — offering tools for churches, small groups, and individuals who long to live with peace and boldness in an age of confusion.  
