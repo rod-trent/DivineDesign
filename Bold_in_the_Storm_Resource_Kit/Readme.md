@@ -6,6 +6,14 @@
 
 ---
 
+<div align="center">
+
+![Front Cover Small](https://raw.githubusercontent.com/rod-trent/DivineDesign/main/Bold_in_the_Storm_Resource_Kit/Files/Front%20Cover%20Small.jpg)
+
+</div>
+
+---
+
 ## 🌊 About the Book
 **Bold in the Storm** is a call to courage and conviction for believers navigating today’s divided world.  
 Through ten powerful chapters, Rod Trent guides readers to recognize spiritual division, overcome fear, speak truth with grace, love enemies, and build lasting faith that stands firm amid chaos.
@@ -39,10 +47,6 @@ Each file includes author attribution:
 - Church-wide teaching campaigns  
 - Personal devotional studies  
 - Ministry leadership training  
-
----
-
-![Front Cover Small](https://raw.githubusercontent.com/rod-trent/DivineDesign/main/Bold_in_the_Storm_Resource_Kit/Files/Front%20Cover%20Small.jpg)
 
 ---
 
