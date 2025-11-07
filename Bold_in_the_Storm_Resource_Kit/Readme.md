@@ -7,7 +7,7 @@
 ---
 
 ## 🌊 About the Book
-**Bold in the Storm** is a call to courage and conviction for believers navigating today’s divided world.  
+**[Bold in the Storm](https://amzn.to/49DaGir)** is a call to courage and conviction for believers navigating today’s divided world.  
 
 Through ten powerful chapters, Rod Trent guides readers to recognize spiritual division, overcome fear, speak truth with grace, love enemies, and build lasting faith that stands firm amid chaos.
 
