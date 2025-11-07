@@ -30,7 +30,7 @@ Each file includes author attribution:
 
 | # | Resource Title | Description | Format | Filename |
 |---|-----------------|--------------|---------|-----------|
-| 1 | **Sermon & Teaching Outlines** | 10 short outlines for pastors or small group leaders with key Scriptures, 3 teaching points, and closing challenges. | PDF | `[Bold_in_the_Storm_Teaching_Outlines.pdf]https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Teaching_Outlines.pdf` |
+| 1 | **Sermon & Teaching Outlines** | 10 short outlines for pastors or small group leaders with key Scriptures, 3 teaching points, and closing challenges. | PDF | `[Bold_in_the_Storm_Teaching_Outlines.pdf] https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Teaching_Outlines.pdf` |
 | 2 | **10-Week Reading Plan** | Weekly reading and reflection plan corresponding to each chapter, ideal for devotion or study pacing. | PDF | `Bold_in_the_Storm_Reading_Plan.pdf` |
 | 3 | **Reader’s Guide & Discussion Questions** | 10 chapters of reflection prompts for small groups or personal study, plus a closing prayer. | PDF | `Bold_in_the_Storm_Reader_Guide.pdf` |
 | 4 | **Leader’s Facilitation Guide** | Guidance for session flow, prayer, pacing, and leadership best practices. | PDF | `Bold_in_the_Storm_Leaders_Guide.pdf` |
