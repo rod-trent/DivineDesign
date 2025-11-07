@@ -31,13 +31,13 @@ Each file includes author attribution:
 | # | Resource Title | Description | Format | Filename |
 |---|-----------------|--------------|---------|-----------|
 | 1 | **Sermon & Teaching Outlines** | 10 short outlines for pastors or small group leaders with key Scriptures, 3 teaching points, and closing challenges. | PDF | [Bold_in_the_Storm_Teaching_Outlines.pdf](https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Teaching_Outlines.pdf) |
-| 2 | **10-Week Reading Plan** | Weekly reading and reflection plan corresponding to each chapter, ideal for devotion or study pacing. | PDF | `Bold_in_the_Storm_Reading_Plan.pdf` |
-| 3 | **Reader’s Guide & Discussion Questions** | 10 chapters of reflection prompts for small groups or personal study, plus a closing prayer. | PDF | `Bold_in_the_Storm_Reader_Guide.pdf` |
-| 4 | **Leader’s Facilitation Guide** | Guidance for session flow, prayer, pacing, and leadership best practices. | PDF | `Bold_in_the_Storm_Leaders_Guide.pdf` |
-| 5 | **Study Workbook** | Printable worksheets with “My Bold Step” actions and prayer sections for each chapter. | PDF | `Bold_in_the_Storm_Study_Workbook.pdf` |
-| 6 | **Leader’s Slides & Templates** | PowerPoint deck for teaching each session — includes Scripture, key points, and reflection slides. | PPTX | `Bold_in_the_Storm_Teaching_Slides.pptx` |
-| 7 | **Personal Devotional Journal** | 10-week guided journal for reflection, prayer, and action notes. | PDF | `Bold_in_the_Storm_Journal.pdf` |
-| 8 | **Group Covenant & Unity Statement** | Opening commitment form promoting unity, trust, and accountability for group participants. | PDF | `Bold_in_the_Storm_Group_Covenant.pdf` |
+| 2 | **10-Week Reading Plan** | Weekly reading and reflection plan corresponding to each chapter, ideal for devotion or study pacing. | PDF | [https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Reading_Plan.pdf](Bold_in_the_Storm_Reading_Plan.pdf) |
+| 3 | **Reader’s Guide & Discussion Questions** | 10 chapters of reflection prompts for small groups or personal study, plus a closing prayer. | PDF | [https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Reader_Guide.pdf](Bold_in_the_Storm_Reader_Guide.pdf)` |
+| 4 | **Leader’s Facilitation Guide** | Guidance for session flow, prayer, pacing, and leadership best practices. | PDF | [https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Leaders_Guide.pdf](Bold_in_the_Storm_Leaders_Guide.pdf) |
+| 5 | **Study Workbook** | Printable worksheets with “My Bold Step” actions and prayer sections for each chapter. | PDF | [https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Study_Workbook.pdf](Bold_in_the_Storm_Study_Workbook.pdf) |
+| 6 | **Leader’s Slides & Templates** | PowerPoint deck for teaching each session — includes Scripture, key points, and reflection slides. | PPTX | [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frod-trent%2FDivineDesign%2Frefs%2Fheads%2Fmain%2FBold_in_the_Storm_Resource_Kit%2FFiles%2FBold_in_the_Storm_Teaching_Slides.pptx&wdOrigin=BROWSELINK](Bold_in_the_Storm_Teaching_Slides.pptx) |
+| 7 | **Personal Devotional Journal** | 10-week guided journal for reflection, prayer, and action notes. | PDF | [https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Journal.pdf](Bold_in_the_Storm_Journal.pdf) |
+| 8 | **Group Covenant & Unity Statement** | Opening commitment form promoting unity, trust, and accountability for group participants. | PDF | [https://github.com/rod-trent/DivineDesign/blob/main/Bold_in_the_Storm_Resource_Kit/Files/Bold_in_the_Storm_Group_Covenant.pdf](Bold_in_the_Storm_Group_Covenant.pdf) |
 
 ---
 
