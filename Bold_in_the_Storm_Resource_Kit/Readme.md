@@ -42,6 +42,10 @@ Each file includes author attribution:
 
 ---
 
+![Front Cover Small](https://raw.githubusercontent.com/rod-trent/DivineDesign/main/Bold_in_the_Storm_Resource_Kit/Files/Front%20Cover%20Small.jpg)
+
+---
+
 ## 🕊️ Licensing
 All content © 2025 Rod Trent  
 Reproduction permitted for non-commercial ministry use with attribution.  
