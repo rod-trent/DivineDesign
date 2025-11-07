@@ -52,7 +52,7 @@ Each file includes author attribution:
 ## 🕊️ Licensing
 All content © 2025 Rod Trent  
 Reproduction permitted for non-commercial ministry use with attribution.  
-For inquiries or permissions, contact: *[Your Ministry or Publisher Contact]*  
+For inquiries or permissions, contact: *[rodtrent@gmail.com]*  
 
 ---
 
