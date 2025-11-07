@@ -8,3 +8,7 @@ If you’ve found these devotions meaningful, I invite you to continue the journ
 https://rodtrent.substack.com/s/divine-design-embracing-gods-purpose
 
 Whether you’re facing a new challenge, seeking encouragement, or simply wanting to stay anchored in faith amid the busyness, the newsletter is here to walk with you.
+
+#What's Here
+
+
