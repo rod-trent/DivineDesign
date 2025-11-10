@@ -26,13 +26,3 @@ We welcome all kinds of contributions, including (but not limited to):
 - 🛠️ **Fixes & Updates** — Correct typos, formatting issues, or outdated information.  
 
 ---
-
-## 🧰 How to Contribute
-
-1. **Fork the Repository**  
-   Click the **Fork** button at the top right of the repository page to create your own copy.
-
-2. **Clone Your Fork**  
-   ```bash
-   git clone https://github.com/YourUsername/RomansRoadResourceKit.git
-   cd RomansRoadResourceKit
