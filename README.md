@@ -15,7 +15,7 @@ And, make sure to grab the [Faith in the Workplace: GPS for Busy Professionals](
 
 [Bold in the Storm Resource Kit](https://github.com/rod-trent/DivineDesign/tree/main/Bold_in_the_Storm_Resource_Kit)
 
-Romans Road Resource Kit (_coming..._)
+[Romans Road Resource Kit](https://github.com/rod-trent/DivineDesign/tree/main/Romans_Road_Resource_Kit)
 
 
 
