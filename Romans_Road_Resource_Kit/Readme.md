@@ -1,6 +1,6 @@
 # 📖 Romans Road to Salvation Resource Kit  
 ### *A Practical Companion to*  
-### *The Road of Grace: Walking the Romans Road to Salvation and Spiritual Renewal*  
+### *The Romans Road to Salvation: A Journey Through Faith, Grace, and New Life*  
 
 ---
 
@@ -43,6 +43,5 @@ This kit brings it to life with modern tools, digital resources, and community c
 
 ---
 
-## 🏗️ Repository Structure
 
 
