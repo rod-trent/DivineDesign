@@ -24,22 +24,16 @@ This kit brings it to life with modern tools, digital resources, and community c
 
 ---
 
-## 🧭 What’s Inside
+## 📦 The Romans Road Resource Kit
+All materials are designed for **non-commercial ministry use**, **printable**, and **reproducible** for local church settings.  
+Each file includes author attribution:  
+> © 2025 Rod Trent — Reproduction permitted for non-commercial ministry use with attribution.
 
-### **Teaching & Study Tools**
-- 🎓 **PowerPoint Presentation:** Visual teaching deck for sermons, classes, or workshops.  
-- 📚 **Sermon & Teaching Outlines:** A seven-week roadmap through Romans.  
-- 📖 **7-Week Reading Plan:** Daily Scripture and reflection themes.  
-
-### **Evangelism & Outreach**
-- ✝️ **Witnessing Guide (Full Edition):** A detailed, step-by-step approach to sharing faith.  
-- 🪶 **Tri-Fold Brochure:** Printable and portable evangelism handout.  
-- 🖨️ **Printable Witnessing Guide (Full-Color):** For ministry packets and follow-up use.  
-
-### **Leadership Resources**
-- 🧩 **Reader’s Guide & Discussion Questions:** Small-group and personal reflection prompts.  
-- 🗂️ **Leader’s Facilitation Guide:** Session plans and best practices for teaching.  
-- 💡 **Leader’s PowerPoint Deck:** Optional version with notes and discussion cues.  
+| # | Resource Title | Description | Format | Filename |
+|---|-----------------|--------------|---------|-----------|
+| 1 | **Witnessing Guide** | Guide to how to use the Romans Road to witness to family, friends, coworkers, and colleagues. | PDF | [Romans_Road_Witnessing_Guide.pdf](https://github.com/rod-trent/DivineDesign/blob/main/Romans_Road_Resource_Kit/Files/Romans_Road_Witnessing_Guide.pdf) |
+| 2 | **Printable Witnessing Guide** | A printable version of the buide to how to use the Romans Road to witness to family, friends, coworkers, and colleagues. | PDF | [Romans_Road_Witnessing_Printable.pdf](https://github.com/rod-trent/DivineDesign/blob/main/Romans_Road_Resource_Kit/Files/Romans_Road_Witnessing_Printable.pdf) |
+| 3 | **The Road of Grace Speaker's Presentation** | Full PowerPoint deck to deliver the content in sermons and meetings. | PPT | [The_Road_of_Grace_Presentation.pptx](https://github.com/rod-trent/DivineDesign/blob/main/Romans_Road_Resource_Kit/Files/The_Road_of_Grace_Presentation.pptx) |
 
 ---
 
