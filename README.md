@@ -9,7 +9,11 @@ https://rodtrent.substack.com/s/divine-design-embracing-gods-purpose
 
 Whether you’re facing a new challenge, seeking encouragement, or simply wanting to stay anchored in faith amid the busyness, the newsletter is here to walk with you.
 
-And, make sure to grab the [Faith in the Workplace: GPS for Busy Professionals](https://amzn.to/43fKWF1) book! 52-weeks of devotions for the busy professional designed for weekly benefit to accompany regular Bible reading and church attendance.
+And, make sure to grab the books this Resource Kit supports!
+
+* [Faith in the Workplace: GPS for Busy Professionals](https://amzn.to/43fKWF1) - 52-weeks of devotions for the busy professional designed for weekly benefit to accompany regular Bible reading and church attendance.
+* [The Romans Road to Salvation: A Journey Through Faith, Grace, and New Life](https://amzn.to/3Xoqb6A) - A 7-Week Journey to Understanding and Sharing the Gospel.
+* [Bold in the Storm: A Christian's Guide to Thriving in a Divisive World](https://amzn.to/4i08ggg) - In a culture torn by fear, division, and deception, believers are asking a crucial question: How do I stand firm without growing hard?
 
 # What's Here
 
