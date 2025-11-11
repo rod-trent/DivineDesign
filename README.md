@@ -13,7 +13,7 @@ And, make sure to grab the books this Resource Kit supports!
 
 * [Faith in the Workplace: GPS for Busy Professionals](https://amzn.to/43fKWF1) - 52-weeks of devotions for the busy professional designed for weekly benefit to accompany regular Bible reading and church attendance.
 * [The Romans Road to Salvation: A Journey Through Faith, Grace, and New Life](https://amzn.to/3Xoqb6A) - A 7-Week Journey to Understanding and Sharing the Gospel.
-* [Bold in the Storm: A Christian's Guide to Thriving in a Divisive World](https://amzn.to/4i08ggg) - In a culture torn by fear, division, and deception, believers are asking a crucial question: How do I stand firm without growing calloused?
+* [Bold in the Storm: A Christian's Guide to Thriving in a Divisive World](https://amzn.to/4i08ggg) - In a culture torn by fear, division, and deception, believers are asking a crucial question: How do I stand firm without growing callused?
 
 # What's Here
 
