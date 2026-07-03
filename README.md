@@ -21,6 +21,8 @@ And, make sure to grab the books this Resource Kit supports!
 
 [Romans Road Resource Kit](https://github.com/rod-trent/DivineDesign/tree/main/Romans_Road_Resource_Kit)
 
+[Divine Design for the Digital Age: Wisdom in an AI-Driven World Resource Kit](https://github.com/rod-trent/DivineDesign/tree/main/Wisdom%20in%20an%20AI-Driven%20World%20Resource%20Kit)
+
 
 
 
