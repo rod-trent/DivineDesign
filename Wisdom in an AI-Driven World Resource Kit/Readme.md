@@ -54,7 +54,6 @@ suggested way to introduce or expand that point. Read them before you present.
 
 *Technology will keep changing. The wisdom to navigate it faithfully will not.*
 
-# Divine Design for the Digital Age
 ## Companion Resources — Appendix Deck Guide
 
 These seventeen decks turn the book's appendices into ready-to-use PowerPoint resources.
